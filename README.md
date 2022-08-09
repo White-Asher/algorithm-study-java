@@ -26,7 +26,8 @@
 | 3주차(08/09) | [요세푸스 문제 (1158)](https://www.acmicpc.net/problem/1158) | 연결리스트 | S4 |   | ✔ | ✔ | ✔ |
 | 3주차(08/09) | [트리 순회 (1991)](https://www.acmicpc.net/problem/1991) | 트리 | S1 |   | ✔ | ✔ | ✔ |
 | 3주차(08/09) | [N과 M (12) (15666)](https://www.acmicpc.net/problem/15666) | 순열, 조합 | S2 |   | ✔ | ✔ | ✔ |
-
+| 3주차(08/11) | [토마토 (7569)](https://www.acmicpc.net/problem/7569) | 순열, 조합 | G5 |   |   |   |   |
+| 3주차(08/11) | [선 긋기 (2170)](https://www.acmicpc.net/problem/2170) | 순열, 조합 | G5 |   |   |   |   |
 
 <br><br>
 
