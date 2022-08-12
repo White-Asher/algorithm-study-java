@@ -1,13 +1,15 @@
 # 자바 알고리즘 스터디
 
 ## 규칙
+- 목적: 삼성 코딩테스트 A형 통과
 - 스터디 일정: 주 2회 진행 
-  - 매주 화요일,목요일 오후 9시 시작
+  - 매주 화요일, 목요일 오후 9시 시작
   - 약 1시간 ~ 2시간 소요
+- 스터디 당일 각자 풀었던 문제를 설명하고 서로의 코드를 리뷰
 - 스터디 진행 후 다음에 풀 문제를 정하고 디스코드에 공지
-- 파일 업로드 규칙 : week_N주차(폴더) / BOJ문제번호.java (파일)
-- 커밋메세지 규칙 : Solve: 문제플랫폼-문제번호 EX)Solve: BOJ-2577, Solve: SWEA-1475
-- 문제 풀이가 완료되었을 시 README.md에 체크표시 할 것
+- 파일 업로드 규칙 : N주차(폴더) / 문제플랫폼_문제번호 (폴더) / 문제플랫폼_문제번호_이름.java (파일) (Ex. BOJ_2577_한재윤.java)
+- 커밋메세지 규칙 : Solve: 문제플랫폼_문제번호 EX)Solve: BOJ_2577, Solve: SWEA_1475
+- 매주 스터디 일정 전까지 문제 풀이 후 원격 저장소에 업로드, README.md에 체크표시 할 것
 <br><br>
 
 ## 스터디 일정
@@ -17,17 +19,27 @@
 | 1주차(07/28) | [숫자의 개수 (2577)](https://www.acmicpc.net/problem/2577) | 배열 | B2 | ✔ | ✔ | ✔ | ✔ |
 | 1주차(07/28) | [방 번호 (1475)](https://www.acmicpc.net/problem/1475) | 배열 | S5 | ✔ | ✔ | ✔ | ✔ |
 | 1주차(07/28) | [두 수의 합 (3273)](https://www.acmicpc.net/problem/3273) | 배열 | S3 |  | ✔ | ✔ | ✔ |
+|  |
 | 2주차(08/02) | [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐 | S4 | ✔  | ✔ | ✔  | ✔ |
 | 2주차(08/02) | [AC (5430)](https://www.acmicpc.net/problem/5430) | 덱 | G5 | ✔  | ✔ |  ✔ | ✔  |
 | 2주차(08/02) | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 | ✔ | ✔ | ✔  | ✔  |
 | 2주차(08/04) | [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) | 스택의 활용 | S3 | ✔  | ✔ | ✔  | ✔  |
 | 2주차(08/04) | [최소 힙 (1927)](https://www.acmicpc.net/problem/1927 ) | 우선순위 큐 | S2 | | ✔ | ✔ | ✔ |
+|  |
 | 3주차(08/09) | [직사각형과 점 (6853)](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&problemLevel=5&contestProbId=AWhT_2HKQNADFAW_&categoryId=AWhT_2HKQNADFAW_&categoryType=CODE&problemTitle=6853&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1&problemLevel=3%2C4%2C5&&&&&&&&&) | 구현 | D3 |   | ✔ | ✔ | ✔ |
 | 3주차(08/09) | [요세푸스 문제 (1158)](https://www.acmicpc.net/problem/1158) | 연결리스트 | S4 |   | ✔ | ✔ | ✔ |
 | 3주차(08/09) | [트리 순회 (1991)](https://www.acmicpc.net/problem/1991) | 트리 | S1 |   | ✔ | ✔ | ✔ |
 | 3주차(08/09) | [N과 M (12) (15666)](https://www.acmicpc.net/problem/15666) | 순열, 조합 | S2 |   | ✔ | ✔ | ✔ |
 | 3주차(08/11) | [토마토 (7569)](https://www.acmicpc.net/problem/7569) | 그래프 탐색 | G5 |   | ✔ | ✔ | ✔ |
 | 3주차(08/11) | [선 긋기 (2170)](https://www.acmicpc.net/problem/2170) | 그리디 | G5 |   | ✔ | ✔ | ✔ |
+|  |
+| 4주차(08/16) | [색종이 붙이기 (17136)](https://www.acmicpc.net/problem/17136) | ? | G2 |  |  |  |  |
+| 4주차(08/16) | [빙산 (2573)](https://www.acmicpc.net/problem/2573) | ? | G4 |  |  |  |  |
+| 4주차(08/16) | [구슬탈출2 (13460)](https://www.acmicpc.net/problem/13460) | ? | G1 |  |  |  |  |
+| 4주차(08/16) | [치킨배달 (15686)](https://www.acmicpc.net/problem/15686) | ? | G5 |  |  |  |  |
+| 4주차(08/16) | [점프왕 쩰리](https://www.acmicpc.net/problem/16173) | ? | S5 |  |  |  |  |
+| 4주차(08/16) | [유기농 배추](https://www.acmicpc.net/problem/1012) | ? | S2 |  |  |  |  |
+
 
 <br><br>
 
