@@ -33,12 +33,12 @@
 | 3주차(08/11) | [토마토 (7569)](https://www.acmicpc.net/problem/7569) | 그래프 탐색 | G5 |   | ✔ | ✔ | ✔ |
 | 3주차(08/11) | [선 긋기 (2170)](https://www.acmicpc.net/problem/2170) | 그리디 | G5 |   | ✔ | ✔ | ✔ |
 |  |
-| 4주차(08/16) | [색종이 붙이기 (17136)](https://www.acmicpc.net/problem/17136) | ? | G2 |  |  |  |  |
-| 4주차(08/16) | [빙산 (2573)](https://www.acmicpc.net/problem/2573) | ? | G4 |  |  |  | ✔ |
-| 4주차(08/16) | [구슬탈출2 (13460)](https://www.acmicpc.net/problem/13460) | ? | G1 |  |  |  |  |
-| 4주차(08/16) | [치킨배달 (15686)](https://www.acmicpc.net/problem/15686) | ? | G5 |  |  |  | ✔ |
-| 4주차(08/16) | [점프왕 쩰리](https://www.acmicpc.net/problem/16173) | ? | S5 |  |  |  | ✔ |
-| 4주차(08/16) | [유기농 배추](https://www.acmicpc.net/problem/1012) | ? | S2 |  |  |  | ✔ |
+| 4주차(08/16) | [색종이 붙이기 (17136)](https://www.acmicpc.net/problem/17136) | 백트래킹 | G2 |  | ✔ |  |  |
+| 4주차(08/16) | [빙산 (2573)](https://www.acmicpc.net/problem/2573) | BFS, DFS | G4 |  | ✔ |  | ✔ |
+| 4주차(08/16) | [구슬탈출2 (13460)](https://www.acmicpc.net/problem/13460) | BFS, DFS, 구현 | G1 | ✔ |  |  |  |
+| 4주차(08/16) | [치킨배달 (15686)](https://www.acmicpc.net/problem/15686) | 백트래킹, 구현 | G5 |  | ✔ |  | ✔ |
+| 4주차(08/16) | [점프왕 쩰리 (16173)](https://www.acmicpc.net/problem/16173) | BFS, DFS, 구현 | S5 |  | ✔ |  | ✔ |
+| 4주차(08/16) | [유기농 배추 (1012)](https://www.acmicpc.net/problem/1012) | BFS, DFS | S2 |  | ✔ |  | ✔ |
 
 
 <br><br>
