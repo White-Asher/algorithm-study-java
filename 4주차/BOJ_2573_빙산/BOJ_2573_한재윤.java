@@ -4,6 +4,11 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/*
+ * 메모리: 132736 KB
+ * 시간: 520 ms
+ * 코드길이: 2294 B
+ */
 public class BOJ_2573 {
 	static int[] dx = {0,0,-1,1};
 	static int[] dy = {-1,1,0,0};

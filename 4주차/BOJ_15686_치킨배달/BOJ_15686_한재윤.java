@@ -3,6 +3,11 @@ package BOJ.combinatorics;
 import java.io.*;
 import java.util.*;
 
+/*
+ * 메모리: 13904 KB
+ * 시간: 228 ms
+ * 코드길이: 1661 B
+ */
 public class BOJ_15686 {
 	static StringTokenizer st;
 	static int N, M;

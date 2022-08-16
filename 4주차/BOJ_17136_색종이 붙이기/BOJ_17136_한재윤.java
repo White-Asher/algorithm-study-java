@@ -4,6 +4,11 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/*
+ * 메모리: 20632 KB
+ * 시간: 232 ms
+ * 코드길이: 1587 B
+ */
 public class BOJ_17136 {
 	static int[][] map;
 	static int[] paper = {0,5,5,5,5,5};
