@@ -32,9 +32,12 @@ public class Main {
         System.out.println(sb);
     }
 
+    // cnt : 색종이를 붙인 횟수
     static void dfs(int cnt) {
+        // 기저 조건
         if (ans < cnt) return;
 
+        // 색종이를 모두 붙였다면 ans값 갱신
         if (isPaste(1, 1, 10, 1)) {
             ans = Math.min(ans, cnt);
             return;
@@ -42,8 +45,10 @@ public class Main {
 
         for (int i = 1; i <= 10; i++) {
             for (int j = 1; j <= 10; j++) {
+                // 1 발견 시 색종이 붙일 수 있는지 판단
                 if (map[i][j] == 1) {
                     for (int size = 5; size > 0; size--) {
+                        // size 크기의 색종이가 남아있고, 범위를 빠져나가지 않으며, 붙일 수 있는 공간이 있으면 붙이고 진행 후 떼봄
                         if (cp[size] > 0 && checkRange(i + size - 1, j + size - 1) && isPaste(i, j, size, 0)) {
                             cp[size]--;
                             pastePaper(i, j, size, 0);
@@ -54,12 +59,14 @@ public class Main {
                             pastePaper(i, j, size, 1);
                         }
                     }
+                    // 모든 사이즈의 색종이를 붙여봤으면 return
                     return;
                 }
             }
         }
     }
 
+    // map[i][j] == fill : 0 -> 색종이를 붙일 수 없음, 1 -> 색종이 붙일 수 있음
     static boolean isPaste(int r, int c, int size, int fill) {
         for (int i = r; i < r + size; i++)
             for (int j = c; j < c + size; j++)
@@ -68,6 +75,7 @@ public class Main {
         return true;
     }
 
+    // map[i][j] = paper : 0 -> 색종이를 붙임, 1 -> 색종이를 뗌
     static void pastePaper(int r, int c, int size, int paper) {
         for (int i = r; i < r + size; i++)
             for (int j = c; j < c + size; j++)
