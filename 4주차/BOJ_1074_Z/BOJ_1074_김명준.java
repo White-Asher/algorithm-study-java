@@ -1,0 +1,34 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+	static int N, r, c;
+	static long totalCnt;
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		
+		N = Integer.parseInt(st.nextToken());
+		r = Integer.parseInt(st.nextToken());
+		c = Integer.parseInt(st.nextToken());
+		
+		separate(0, 0, N);	
+	}
+	
+	static void separate(int y, int x, int n) {
+		if (n == 0) {
+			System.out.println(totalCnt);
+			return;
+		}
+		
+		n--;
+		int size = (int) Math.pow(2, n);
+		
+		if (r < y + size && c < x + size) separate(y, x, n);
+		else if (r < y + size && c >= x + size) { totalCnt += size * size; separate(y, x + size, n); }
+		else if (r >= y + size && c < x + size) { totalCnt +=	size * size * 2; separate(y + size, x, n); }
+		else { totalCnt += size * size * 3; separate(y + size, x + size, n); }
+		
+	}
+	
+}
