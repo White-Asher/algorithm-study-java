@@ -39,7 +39,7 @@
 | 4주차(08/16) | [치킨배달 (15686)](https://www.acmicpc.net/problem/15686) | 백트래킹, 구현 | G5 |  | ✔ | ✔ | ✔ |
 | 4주차(08/16) | [점프왕 쩰리 (16173)](https://www.acmicpc.net/problem/16173) | BFS, DFS, 구현 | S5 |  | ✔ | ✔ | ✔ |
 | 4주차(08/16) | [유기농 배추 (1012)](https://www.acmicpc.net/problem/1012) | BFS, DFS | S2 |  | ✔ | ✔ | ✔ |
-| 4주차(08/18) | [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현 | G4 |  |  |  | ✔ |
+| 4주차(08/18) | [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현 | G4 |  | ✔ |  | ✔ |
 | 4주차(08/18) | [뱀 (3190)](https://www.acmicpc.net/problem/3190) | 구현 | G4 |  | ✔ |  | ✔ |
 | 4주차(08/18) | [Z (1074)](https://www.acmicpc.net/problem/1074) | 분할정복 | S1 | ✔ | ✔ |  | ✔ |
 
