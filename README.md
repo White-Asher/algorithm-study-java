@@ -42,7 +42,12 @@
 | 4주차(08/18) | [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현 | G4 |  | ✔ |  | ✔ |
 | 4주차(08/18) | [뱀 (3190)](https://www.acmicpc.net/problem/3190) | 구현 | G4 |  | ✔ |  | ✔ |
 | 4주차(08/18) | [Z (1074)](https://www.acmicpc.net/problem/1074) | 분할정복 | S1 | ✔ | ✔ |  | ✔ |
-
+||
+| 5주차(08/23) | [미로2 (1227)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE&problemTitle=1227&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
+| 5주차(08/23) | [홈 방범 서비스 (2117)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE&problemTitle=2117&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  |  |
+| 5주차(08/23) | [격자판의 숫자 이어 붙이기 (2819)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE&problemTitle=2819&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
+| 5주차(08/23) | [방향 전환 (8382)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP&categoryId=AWyNQrCahHcDFAVP&categoryType=CODE&problemTitle=8382&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
+| 5주차(08/23) | [아기상어 (16236)](https://www.acmicpc.net/problem/16236) | 구현 | G3 |  |  |  |  |
 
 <br><br>
 
