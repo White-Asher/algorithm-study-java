@@ -14,40 +14,44 @@
 
 ## 스터디 일정
 
-| 날짜 | 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1주차(07/28) | [숫자의 개수 (2577)](https://www.acmicpc.net/problem/2577) | 배열 | B2 | ✔ | ✔ | ✔ | ✔ |
-| 1주차(07/28) | [방 번호 (1475)](https://www.acmicpc.net/problem/1475) | 배열 | S5 | ✔ | ✔ | ✔ | ✔ |
-| 1주차(07/28) | [두 수의 합 (3273)](https://www.acmicpc.net/problem/3273) | 배열 | S3 |  | ✔ | ✔ | ✔ |
-|  |
-| 2주차(08/02) | [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐 | S4 | ✔  | ✔ | ✔  | ✔ |
-| 2주차(08/02) | [AC (5430)](https://www.acmicpc.net/problem/5430) | 덱 | G5 | ✔  | ✔ |  ✔ | ✔  |
-| 2주차(08/02) | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 | ✔ | ✔ | ✔  | ✔  |
-| 2주차(08/04) | [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) | 스택의 활용 | S3 | ✔  | ✔ | ✔  | ✔  |
-| 2주차(08/04) | [최소 힙 (1927)](https://www.acmicpc.net/problem/1927 ) | 우선순위 큐 | S2 | | ✔ | ✔ | ✔ |
-|  |
-| 3주차(08/09) | [직사각형과 점 (6853)](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&problemLevel=5&contestProbId=AWhT_2HKQNADFAW_&categoryId=AWhT_2HKQNADFAW_&categoryType=CODE&problemTitle=6853&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1&problemLevel=3%2C4%2C5&&&&&&&&&) | 구현 | D3 |   | ✔ | ✔ | ✔ |
-| 3주차(08/09) | [요세푸스 문제 (1158)](https://www.acmicpc.net/problem/1158) | 연결리스트 | S4 |   | ✔ | ✔ | ✔ |
-| 3주차(08/09) | [트리 순회 (1991)](https://www.acmicpc.net/problem/1991) | 트리 | S1 |   | ✔ | ✔ | ✔ |
-| 3주차(08/09) | [N과 M (12) (15666)](https://www.acmicpc.net/problem/15666) | 순열, 조합 | S2 |   | ✔ | ✔ | ✔ |
-| 3주차(08/11) | [토마토 (7569)](https://www.acmicpc.net/problem/7569) | 그래프 탐색 | G5 |   | ✔ | ✔ | ✔ |
-| 3주차(08/11) | [선 긋기 (2170)](https://www.acmicpc.net/problem/2170) | 그리디 | G5 |   | ✔ | ✔ | ✔ |
-|  |
-| 4주차(08/16) | [색종이 붙이기 (17136)](https://www.acmicpc.net/problem/17136) | 백트래킹 | G2 |  | ✔ |  | ✔ |
-| 4주차(08/16) | [빙산 (2573)](https://www.acmicpc.net/problem/2573) | BFS, DFS | G4 |  | ✔ | ✔ | ✔ |
-| 4주차(08/16) | [구슬탈출2 (13460)](https://www.acmicpc.net/problem/13460) | BFS, DFS, 구현 | G1 |  | ✔ | ✔ |  |
-| 4주차(08/16) | [치킨배달 (15686)](https://www.acmicpc.net/problem/15686) | 백트래킹, 구현 | G5 |  | ✔ | ✔ | ✔ |
-| 4주차(08/16) | [점프왕 쩰리 (16173)](https://www.acmicpc.net/problem/16173) | BFS, DFS, 구현 | S5 |  | ✔ | ✔ | ✔ |
-| 4주차(08/16) | [유기농 배추 (1012)](https://www.acmicpc.net/problem/1012) | BFS, DFS | S2 |  | ✔ | ✔ | ✔ |
-| 4주차(08/18) | [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현 | G4 |  | ✔ |  | ✔ |
-| 4주차(08/18) | [뱀 (3190)](https://www.acmicpc.net/problem/3190) | 구현 | G4 |  | ✔ |  | ✔ |
-| 4주차(08/18) | [Z (1074)](https://www.acmicpc.net/problem/1074) | 분할정복 | S1 | ✔ | ✔ |  | ✔ |
-||
-| 5주차(08/23) | [미로2 (1227)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE&problemTitle=1227&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
-| 5주차(08/23) | [홈 방범 서비스 (2117)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE&problemTitle=2117&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  |  |
-| 5주차(08/23) | [격자판의숫자이어붙이기(2819)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE&problemTitle=2819&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
-| 5주차(08/23) | [방향 전환 (8382)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP&categoryId=AWyNQrCahHcDFAVP&categoryType=CODE&problemTitle=8382&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
-| 5주차(08/23) | [아기상어 (16236)](https://www.acmicpc.net/problem/16236) | 구현 | G3 |  |  |  |  |
+| 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1주차 (07/28) (목) |
+| [숫자의 개수 (2577)](https://www.acmicpc.net/problem/2577) | 배열 | B2 | ✔ | ✔ | ✔ | ✔ |
+| [방 번호 (1475)](https://www.acmicpc.net/problem/1475) | 배열 | S5 | ✔ | ✔ | ✔ | ✔ |
+| [두 수의 합 (3273)](https://www.acmicpc.net/problem/3273) | 배열 | S3 |  | ✔ | ✔ | ✔ |
+| 2주차 (08/02) (화) |
+| [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐 | S4 | ✔  | ✔ | ✔  | ✔ |
+| [AC (5430)](https://www.acmicpc.net/problem/5430) | 덱 | G5 | ✔  | ✔ |  ✔ | ✔  |
+| 2주차 (08/04) (목) |
+| [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 | ✔ | ✔ | ✔  | ✔  |
+| [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) | 스택의 활용 | S3 | ✔  | ✔ | ✔  | ✔  |
+| [최소 힙 (1927)](https://www.acmicpc.net/problem/1927 ) | 우선순위 큐 | S2 | | ✔ | ✔ | ✔ |
+| 3주차 (08/09) (화) |
+| [직사각형과 점 (6853)](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&problemLevel=5&contestProbId=AWhT_2HKQNADFAW_&categoryId=AWhT_2HKQNADFAW_&categoryType=CODE&problemTitle=6853&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1&problemLevel=3%2C4%2C5&&&&&&&&&) | 구현 | D3 |   | ✔ | ✔ | ✔ |
+| [요세푸스 문제 (1158)](https://www.acmicpc.net/problem/1158) | 연결리스트 | S4 |   | ✔ | ✔ | ✔ |
+| [트리 순회 (1991)](https://www.acmicpc.net/problem/1991) | 트리 | S1 |   | ✔ | ✔ | ✔ |
+| [N과 M (12) (15666)](https://www.acmicpc.net/problem/15666) | 순열, 조합 | S2 |   | ✔ | ✔ | ✔ |
+| 3주차 (08/11) (목) |
+| [토마토 (7569)](https://www.acmicpc.net/problem/7569) | 그래프 탐색 | G5 |   | ✔ | ✔ | ✔ |
+| [선 긋기 (2170)](https://www.acmicpc.net/problem/2170) | 그리디 | G5 |   | ✔ | ✔ | ✔ |
+| 4주차(08/16) (화) |
+| [색종이 붙이기 (17136)](https://www.acmicpc.net/problem/17136) | 백트래킹 | G2 |  | ✔ |  | ✔ |
+| [빙산 (2573)](https://www.acmicpc.net/problem/2573) | BFS, DFS | G4 |  | ✔ | ✔ | ✔ |
+| [구슬탈출2 (13460)](https://www.acmicpc.net/problem/13460) | BFS, DFS, 구현 | G1 |  | ✔ | ✔ |  |
+| [치킨배달 (15686)](https://www.acmicpc.net/problem/15686) | 백트래킹, 구현 | G5 |  | ✔ | ✔ | ✔ |
+| [점프왕 쩰리 (16173)](https://www.acmicpc.net/problem/16173) | BFS, DFS, 구현 | S5 |  | ✔ | ✔ | ✔ |
+| [유기농 배추 (1012)](https://www.acmicpc.net/problem/1012) | BFS, DFS | S2 |  | ✔ | ✔ | ✔ |
+| 4주차(08/18) (목) |
+| [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현 | G4 |  | ✔ |  | ✔ |
+| [뱀 (3190)](https://www.acmicpc.net/problem/3190) | 구현 | G4 |  | ✔ |  | ✔ |
+| [Z (1074)](https://www.acmicpc.net/problem/1074) | 분할정복 | S1 | ✔ | ✔ |  | ✔ |
+| 5주차(08/23) (화) |
+| [미로2 (1227)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE&problemTitle=1227&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
+| [홈 방범 서비스 (2117)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE&problemTitle=2117&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  |  |
+| [격자판의 숫자 이어붙이기 (2819)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE&problemTitle=2819&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
+| [방향 전환 (8382)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP&categoryId=AWyNQrCahHcDFAVP&categoryType=CODE&problemTitle=8382&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
+| [아기상어 (16236)](https://www.acmicpc.net/problem/16236) | 구현 | G3 |  |  |  |  |
 
 <br><br>
 
