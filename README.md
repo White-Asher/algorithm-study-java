@@ -36,7 +36,7 @@
 | [토마토 (7569)](https://www.acmicpc.net/problem/7569) | 그래프 탐색 | G5 |   | ✔ | ✔ | ✔ |
 | [선 긋기 (2170)](https://www.acmicpc.net/problem/2170) | 그리디 | G5 |   | ✔ | ✔ | ✔ |
 | 4주차(08/16) (화) |
-| [색종이 붙이기 (17136)](https://www.acmicpc.net/problem/17136) | 백트래킹 | G2 |  | ✔ |  | ✔ |
+| [색종이 붙이기 (17136)](https://www.acmicpc.net/problem/17136) | 백트래킹 | G2 |  | ✔ | ✔ | ✔ |
 | [빙산 (2573)](https://www.acmicpc.net/problem/2573) | BFS, DFS | G4 |  | ✔ | ✔ | ✔ |
 | [구슬탈출2 (13460)](https://www.acmicpc.net/problem/13460) | BFS, DFS, 구현 | G1 |  | ✔ | ✔ |  |
 | [치킨배달 (15686)](https://www.acmicpc.net/problem/15686) | 백트래킹, 구현 | G5 |  | ✔ | ✔ | ✔ |
@@ -44,7 +44,7 @@
 | [유기농 배추 (1012)](https://www.acmicpc.net/problem/1012) | BFS, DFS | S2 |  | ✔ | ✔ | ✔ |
 | 4주차(08/18) (목) |
 | [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현 | G4 |  | ✔ |  | ✔ |
-| [뱀 (3190)](https://www.acmicpc.net/problem/3190) | 구현 | G4 |  | ✔ |  | ✔ |
+| [뱀 (3190)](https://www.acmicpc.net/problem/3190) | 구현 | G4 |  | ✔ | ✔ | ✔ |
 | [Z (1074)](https://www.acmicpc.net/problem/1074) | 분할정복 | S1 | ✔ | ✔ |  | ✔ |
 | 5주차(08/23) (화) |
 | [미로2 (1227)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE&problemTitle=1227&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  |  |  |  |
