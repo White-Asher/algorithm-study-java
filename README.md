@@ -43,7 +43,7 @@
 | [점프왕 쩰리 (16173)](https://www.acmicpc.net/problem/16173) | BFS, DFS, 구현 | S5 |  | ✔ | ✔ | ✔ |
 | [유기농 배추 (1012)](https://www.acmicpc.net/problem/1012) | BFS, DFS | S2 |  | ✔ | ✔ | ✔ |
 | 4주차(08/18) (목) |
-| [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현 | G4 |  | ✔ |  | ✔ |
+| [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현 | G4 |  | ✔ | ✔ | ✔ |
 | [뱀 (3190)](https://www.acmicpc.net/problem/3190) | 구현 | G4 |  | ✔ | ✔ | ✔ |
 | [Z (1074)](https://www.acmicpc.net/problem/1074) | 분할정복 | S1 | ✔ | ✔ | ✔ | ✔ |
 | 5주차(08/23) (화) |
