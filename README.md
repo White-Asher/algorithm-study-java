@@ -87,7 +87,7 @@
 | 문제 | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [숫자야구게임 (1768)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4su3xKXFUDFAUf&categoryId=AV4su3xKXFUDFAUf&categoryType=CODE&problemTitle=%EC%83%98%ED%94%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  |  |
-| [줄기세포배양 (5653)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&categoryId=AWXRJ8EKe48DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) | 구현 | None |  |  |  |  |
+| [줄기세포배양 (5653)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&categoryId=AWXRJ8EKe48DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) | 구현 | None | ✔ |  |  |  |
 
 <br><br>
 
