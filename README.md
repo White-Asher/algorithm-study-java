@@ -94,7 +94,7 @@
 | 문제 | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [벌꿀채취 (2115)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu) | 구현 | None | ✔ |  |  |  |
-| [보물상자 비밀번호 (5658)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  |  |
+| [보물상자 비밀번호 (5658)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None | ✔ |  |  |  |
 
 <br><br>
 
