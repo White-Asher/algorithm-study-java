@@ -89,6 +89,13 @@
 | [숫자야구게임 (1768)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4su3xKXFUDFAUf&categoryId=AV4su3xKXFUDFAUf&categoryType=CODE&problemTitle=%EC%83%98%ED%94%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  |  |
 | [줄기세포배양 (5653)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&categoryId=AWXRJ8EKe48DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) | 구현 | None | ✔ |  |  |  |
 
+## 7주차(09/14) (목)
+
+| 문제 | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [벌꿀채취 (2115)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu) | 구현 | None | ✔ |  |  |  |
+| [보물상자 비밀번호 (5658)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  |  |
+
 <br><br>
 
 ## 바킹독 알고리즘 문제집
