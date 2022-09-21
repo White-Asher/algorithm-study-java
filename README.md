@@ -99,8 +99,8 @@
 
 | 문제 | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [벽돌 깨기 (5656)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  |  |
-| [디저트 카페 (2105)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&categoryId=AV5VwAr6APYDFAWu&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  |  |
+| [벽돌 깨기 (5656)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  | ✔ |
+| [디저트 카페 (2105)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&categoryId=AV5VwAr6APYDFAWu&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  | ✔ |
 
 <br><br>
 
