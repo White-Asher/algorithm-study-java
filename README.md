@@ -16,91 +16,91 @@
 
 ## 1주차 (07/28) (목)
 
-| 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [숫자의 개수 (2577)](https://www.acmicpc.net/problem/2577) | 배열 | B2 | ✔ | ✔ | ✔ | ✔ |
-| [방 번호 (1475)](https://www.acmicpc.net/problem/1475) | 배열 | S5 | ✔ | ✔ | ✔ | ✔ |
-| [두 수의 합 (3273)](https://www.acmicpc.net/problem/3273) | 배열 | S3 |  | ✔ | ✔ | ✔ |
+| 문제                                                       | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| ---------------------------------------------------------- | ---- | ------ | ------ | ------ | ------ | ------ |
+| [숫자의 개수 (2577)](https://www.acmicpc.net/problem/2577) | 배열 | B2     | ✔      | ✔      | ✔      | ✔      |
+| [방 번호 (1475)](https://www.acmicpc.net/problem/1475)     | 배열 | S5     | ✔      | ✔      | ✔      | ✔      |
+| [두 수의 합 (3273)](https://www.acmicpc.net/problem/3273)  | 배열 | S3     |        | ✔      | ✔      | ✔      |
 
 ## 2주차 (08/02) (화)
 
-| 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐 | S4 | ✔ | ✔ | ✔ | ✔ |
-| [AC (5430)](https://www.acmicpc.net/problem/5430) | 덱 | G5 | ✔ | ✔ | ✔ | ✔ |
+| 문제                                                 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| ---------------------------------------------------- | ---- | ------ | ------ | ------ | ------ | ------ |
+| [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐   | S4     | ✔      | ✔      | ✔      | ✔      |
+| [AC (5430)](https://www.acmicpc.net/problem/5430)    | 덱   | G5     | ✔      | ✔      | ✔      | ✔      |
 
 ## 2주차 (08/04) (목)
 
-| 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 | ✔ | ✔ | ✔ | ✔ |
-| [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) | 스택의 활용 | S3 | ✔ | ✔ | ✔ | ✔ |
-| [최소 힙 (1927)](https://www.acmicpc.net/problem/1927) | 우선순위 큐 | S2 |  | ✔ | ✔ | ✔ |
+| 문제                                                      | 유형        | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| --------------------------------------------------------- | ----------- | ------ | ------ | ------ | ------ | ------ |
+| [스택 수열 (1874)](https://www.acmicpc.net/problem/1874)  | 스택        | S2     | ✔      | ✔      | ✔      | ✔      |
+| [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) | 스택의 활용 | S3     | ✔      | ✔      | ✔      | ✔      |
+| [최소 힙 (1927)](https://www.acmicpc.net/problem/1927)    | 우선순위 큐 | S2     |        | ✔      | ✔      | ✔      |
 
 ## 3주차 (08/09) (화)
 
-| 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [직사각형과 점 (6853)](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&problemLevel=5&contestProbId=AWhT_2HKQNADFAW_&categoryId=AWhT_2HKQNADFAW_&categoryType=CODE&problemTitle=6853&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1&problemLevel=3%2C4%2C5&&&&&&&&&) | 구현 | D3 |  | ✔ | ✔ | ✔ |
-| [요세푸스 문제 (1158)](https://www.acmicpc.net/problem/1158) | 연결리스트 | S4 |  | ✔ | ✔ | ✔ |
-| [트리 순회 (1991)](https://www.acmicpc.net/problem/1991) | 트리 | S1 |  | ✔ | ✔ | ✔ |
-| [N과 M (12) (15666)](https://www.acmicpc.net/problem/15666) | 순열, 조합 | S2 |  | ✔ | ✔ | ✔ |
+| 문제                                                                                                                                                                                                                                                                                                                                                | 유형       | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------ | ------ | ------ | ------ |
+| [직사각형과 점 (6853)](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&problemLevel=5&contestProbId=AWhT_2HKQNADFAW_&categoryId=AWhT_2HKQNADFAW_&categoryType=CODE&problemTitle=6853&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1&problemLevel=3%2C4%2C5&&&&&&&&&) | 구현       | D3     |        | ✔      | ✔      | ✔      |
+| [요세푸스 문제 (1158)](https://www.acmicpc.net/problem/1158)                                                                                                                                                                                                                                                                                        | 연결리스트 | S4     |        | ✔      | ✔      | ✔      |
+| [트리 순회 (1991)](https://www.acmicpc.net/problem/1991)                                                                                                                                                                                                                                                                                            | 트리       | S1     |        | ✔      | ✔      | ✔      |
+| [N과 M (12) (15666)](https://www.acmicpc.net/problem/15666)                                                                                                                                                                                                                                                                                         | 순열, 조합 | S2     |        | ✔      | ✔      | ✔      |
 
 ## 3주차 (08/11) (목)
 
-| 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [토마토 (7569)](https://www.acmicpc.net/problem/7569) | 그래프 탐색 | G5 |  | ✔ | ✔ | ✔ |
-| [선 긋기 (2170)](https://www.acmicpc.net/problem/2170) | 그리디 | G5 |  | ✔ | ✔ | ✔ |
+| 문제                                                   | 유형        | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| ------------------------------------------------------ | ----------- | ------ | ------ | ------ | ------ | ------ |
+| [토마토 (7569)](https://www.acmicpc.net/problem/7569)  | 그래프 탐색 | G5     |        | ✔      | ✔      | ✔      |
+| [선 긋기 (2170)](https://www.acmicpc.net/problem/2170) | 그리디      | G5     |        | ✔      | ✔      | ✔      |
 
 ## 4주차(08/16) (화)
 
-| 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [색종이 붙이기 (17136)](https://www.acmicpc.net/problem/17136) | 백트래킹 | G2 |  | ✔ | ✔ | ✔ |
-| [빙산 (2573)](https://www.acmicpc.net/problem/2573) | BFS, DFS | G4 |  | ✔ | ✔ | ✔ |
-| [구슬탈출2 (13460)](https://www.acmicpc.net/problem/13460) | BFS, DFS, 구현 | G1 |  | ✔ | ✔ |  |
-| [치킨배달 (15686)](https://www.acmicpc.net/problem/15686) | 백트래킹, 구현 | G5 |  | ✔ | ✔ | ✔ |
-| [점프왕 쩰리 (16173)](https://www.acmicpc.net/problem/16173) | BFS, DFS, 구현 | S5 |  | ✔ | ✔ | ✔ |
-| [유기농 배추 (1012)](https://www.acmicpc.net/problem/1012) | BFS, DFS | S2 |  | ✔ | ✔ | ✔ |
+| 문제                                                           | 유형           | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| -------------------------------------------------------------- | -------------- | ------ | ------ | ------ | ------ | ------ |
+| [색종이 붙이기 (17136)](https://www.acmicpc.net/problem/17136) | 백트래킹       | G2     |        | ✔      | ✔      | ✔      |
+| [빙산 (2573)](https://www.acmicpc.net/problem/2573)            | BFS, DFS       | G4     |        | ✔      | ✔      | ✔      |
+| [구슬탈출2 (13460)](https://www.acmicpc.net/problem/13460)     | BFS, DFS, 구현 | G1     |        | ✔      | ✔      |        |
+| [치킨배달 (15686)](https://www.acmicpc.net/problem/15686)      | 백트래킹, 구현 | G5     |        | ✔      | ✔      | ✔      |
+| [점프왕 쩰리 (16173)](https://www.acmicpc.net/problem/16173)   | BFS, DFS, 구현 | S5     |        | ✔      | ✔      | ✔      |
+| [유기농 배추 (1012)](https://www.acmicpc.net/problem/1012)     | BFS, DFS       | S2     |        | ✔      | ✔      | ✔      |
 
 ## 4주차(08/18) (목)
 
-| 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현 | G4 |  | ✔ | ✔ | ✔ |
-| [뱀 (3190)](https://www.acmicpc.net/problem/3190) | 구현 | G4 |  | ✔ | ✔ | ✔ |
-| [Z (1074)](https://www.acmicpc.net/problem/1074) | 분할정복 | S1 | ✔ | ✔ | ✔ | ✔ |
+| 문제                                                           | 유형     | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| -------------------------------------------------------------- | -------- | ------ | ------ | ------ | ------ | ------ |
+| [괄호 추가하기 (16637)](https://www.acmicpc.net/problem/16637) | 구현     | G4     |        | ✔      | ✔      | ✔      |
+| [뱀 (3190)](https://www.acmicpc.net/problem/3190)              | 구현     | G4     |        | ✔      | ✔      | ✔      |
+| [Z (1074)](https://www.acmicpc.net/problem/1074)               | 분할정복 | S1     | ✔      | ✔      | ✔      | ✔      |
 
 ## 5주차(08/23) (화)
 
-| 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [미로2 (1227)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE&problemTitle=1227&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  | ✔ | ✔ | ✔ |
-| [홈 방범 서비스 (2117)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE&problemTitle=2117&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  | ✔ | ✔ | ✔ |
-| [격자판의 숫자 이어붙이기 (2819)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE&problemTitle=2819&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  | ✔ | ✔ | ✔ |
-| [방향 전환 (8382)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP&categoryId=AWyNQrCahHcDFAVP&categoryType=CODE&problemTitle=8382&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4 |  | ✔ | ✔ | ✔ |
-| [아기상어 (16236)](https://www.acmicpc.net/problem/16236) | 구현 | G3 |  | ✔ |  |  |
+| 문제                                                                                                                                                                                                                                                                             | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ | ------ | ------ | ------ | ------ |
+| [미로2 (1227)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE&problemTitle=1227&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)                    | 구현 | Dif4   |        | ✔      | ✔      | ✔      |
+| [홈 방범 서비스 (2117)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE&problemTitle=2117&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)           | 구현 | None   |        | ✔      | ✔      | ✔      |
+| [격자판의 숫자 이어붙이기 (2819)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE&problemTitle=2819&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | Dif4   |        | ✔      | ✔      | ✔      |
+| [방향 전환 (8382)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP&categoryId=AWyNQrCahHcDFAVP&categoryType=CODE&problemTitle=8382&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)                | 구현 | Dif4   |        | ✔      | ✔      | ✔      |
+| [아기상어 (16236)](https://www.acmicpc.net/problem/16236)                                                                                                                                                                                                                        | 구현 | G3     |        | ✔      |        |        |
 
 ## 6주차(09/08) (목)
 
-| 문제 | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [줄기세포배양 (5653)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&categoryId=AWXRJ8EKe48DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) | 구현 | None | ✔ |  | ✔ | ✔ |
+| 문제                                                                                                                                                                                                                                                                       | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ | ------ | ------ | ------ | ------ |
+| [줄기세포배양 (5653)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&categoryId=AWXRJ8EKe48DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) | 구현 | None   | ✔      |        | ✔      | ✔      |
 
 ## 7주차(09/15) (목)
 
-| 문제 | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [벌꿀채취 (2115)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu) | 구현 | None | ✔ |  |  | ✔ |
-| [보물상자 비밀번호 (5658)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None | ✔ |  | ✔ | ✔ |
+| 문제                                                                                                                                                                                                                                                                                    | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ | ------ | ------ | ------ | ------ |
+| [벌꿀채취 (2115)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu)                                                                                                                                                                        | 구현 | None   | ✔      |        |        | ✔      |
+| [보물상자 비밀번호 (5658)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 구현 | None   | ✔      |        | ✔      | ✔      |
 
 ## 8주차(09/22) (목)
 
-| 문제 | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [벽돌 깨기 (5656)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  | ✔ |
-| [디저트 카페 (2105)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&categoryId=AV5VwAr6APYDFAWu&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1) | 구현 | None |  |  |  | ✔ |
+| 문제                                                                                                                                                                                                                                                                          | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ | ------ | ------ | ------ | ------ |
+| [벽돌 깨기 (5656)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1)   | 구현 | None   |        |        |        | ✔      |
+| [디저트 카페 (2105)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&categoryId=AV5VwAr6APYDFAWu&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1) | 구현 | None   | ✔      |        |        | ✔      |
 
 <br><br>
 
