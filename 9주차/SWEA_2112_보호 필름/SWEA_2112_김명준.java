@@ -39,21 +39,7 @@ public class SWEA_2112 {
 				continue;
 			}
 			
-			visited = new boolean[d];
-			// A로 통일
-			for (int i = 0; i < d; i++) {
-				visited[i] = true;
-				solve(1, i, 0, film, visited);
-				visited[i] = false;
-			}
-			
-			visited = new boolean[d];
-			// B로 통일
-			for (int i = 0; i < d; i++) {
-				visited[i] = true;
-				solve(1, i, 1, film, visited);
-				visited[i] = false;
-			}
+			solve(0, 0, film);
 			
 			sb.append("#" + tc + " " + ans + "\n");
 			
@@ -61,30 +47,29 @@ public class SWEA_2112 {
 		System.out.print(sb);
 	}
 	
-	static void solve(int depth, int row, int attr, int[][] arr, boolean[] visited) {
-		if (depth >= ans)
+	static void solve(int cnt, int row, int[][] arr) {
+		if (cnt > ans)
 			return;
+		
+		if (row == d) {
+			if (check(arr)) {
+				ans = Math.min(ans, cnt);
+			}
+			return;
+		}
 		
 		int[][] cArr = copyArr(arr);
 		
 		
-		for (int j = 0; j < w; j++) {
-			cArr[row][j] = attr;
-		}
+		solve(cnt, row + 1, cArr);
 		
-		if (check(cArr)) {
-			ans = depth;
-//			ans = Math.min(ans, depth);
-			return;
-		}
+		cArr[row] = injection(cArr[row], 0);
+		solve(cnt + 1, row + 1, cArr);
 		
-		for (int i = 0; i < d; i++) {
-			if(!visited[i]) {
-				visited[i] = true;
-				solve(depth + 1, i, attr, cArr, visited);
-				visited[i] = false;
-			}
-		}
+		cArr[row] = injection(cArr[row], 1);
+		solve(cnt + 1, row + 1, cArr);
+		
+		
 	}
 
 	static boolean check(int[][] arr) {
@@ -119,6 +104,13 @@ public class SWEA_2112 {
 			cArr[i] = arr[i].clone();
 		
 		return cArr;
+	}
+	
+	static int[] injection(int[] arr, int attr) {
+		for (int i = 0; i < w; i++) {
+			arr[i] = attr;
+		}
+		return arr;
 	}
 	
 }
