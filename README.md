@@ -106,8 +106,15 @@
 
 | 문제 | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [활주로 건설 (4014)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1) | 구현 | None | ✔ |  | ✔ | ✔ |
-| [보호 필름 (2112)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu&categoryId=AV5V1SYKAaUDFAWu&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) | 구현 | None | ✔ |  | ✔ | ✔ |
+| [활주로 건설 (4014)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH&categoryId=AWIeW7FakkUDFAVH&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1) | 구현 | None | ✔ | ✔ | ✔ | ✔ |
+| [보호 필름 (2112)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu&categoryId=AV5V1SYKAaUDFAWu&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) | 구현 | None | ✔ | ✔ | ✔ | ✔ |
+
+## 10주차(10/06) (목)
+
+| 문제 | 유형 | 난이도 | 김명준 | 김성태 | 조원희 | 한재윤 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [점심 식사시간 (2383)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl&categoryId=AV5-BEE6AK0DFAVl&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) | 구현 | None |  |  |  |  |
+| [차량 정비소 (2477)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy&categoryId=AV6c6bgaIuoDFAXy&categoryType=CODE&problemTitle=%EC%97%AD%EB%9F%89&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) | 구현 | None |  |  |  |  |
 
 <br><br>
 
