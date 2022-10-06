@@ -14,7 +14,7 @@ public class SWEA_2477_차량_정비소 {
 		int no, avTime, recept, repair, waiting;
 		
 		public Customer(int no) {
-			this(no, -1, -1, -1, -1);
+			this.no = no;
 		}
 	}
 	
