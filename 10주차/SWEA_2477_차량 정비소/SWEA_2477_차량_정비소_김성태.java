@@ -3,6 +3,12 @@ package com.joykst96.practice.swea;
 import java.io.*;
 import java.util.*;
 
+/*
+ *  메모리 : 54,316 kb
+ *  실행시간 : 661 ms
+ * 
+ */
+
 public class SWEA_2477_차량_정비소 {
 	static class Customer {
 		int no, avTime, recept, repair, waiting;
