@@ -50,8 +50,8 @@ public class SWEA_2477_차량_정비소 {
 			Customer[] receptionDesks = new Customer[N];
 			// 접수창구 -> 수리창구를 처리할 PQ
 			PriorityQueue<Customer> repairWaiting = new PriorityQueue<>((c1, c2) -> {
-				if (c1.recept == c2.recept) return Integer.compare(c1.avTime, c2.avTime);
-				return Integer.compare(c1.recept, c2.recept);
+				if (c1.avTime == c2.avTime) return Integer.compare(c1.recept, c2.recept);
+				return Integer.compare(c1.avTime, c2.avTime);
 			});
 			// 수리창구들
 			Customer[] repairDesks = new Customer[N];
