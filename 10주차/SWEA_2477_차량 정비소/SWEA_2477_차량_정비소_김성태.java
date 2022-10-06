@@ -16,14 +16,6 @@ public class SWEA_2477_차량_정비소 {
 		public Customer(int no) {
 			this(no, -1, -1, -1, -1);
 		}
-
-		public Customer(int no, int avTime, int recept, int repair, int waiting) {
-			this.no = no;
-			this.avTime = avTime;
-			this.recept = recept;
-			this.repair = repair;
-			this.waiting = waiting;
-		}
 	}
 	
 	public static void main(String[] args) throws IOException {
