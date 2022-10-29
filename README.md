@@ -12,11 +12,23 @@
 - 커밋메세지 규칙 : Solve: 문제플랫폼\_문제번호 EX)Solve: BOJ_2577, Solve: SWEA_1475
 - 매주 스터디 일정 전까지 문제 풀이 후 원격 저장소에 업로드<br><br>
 
+## 스터디원
+- 김명준
+- 김성태
+- 조원희
+- 한재윤
+
 # 스터디 일정
+
+## 12주차(11/03) (목)
+[Programmers - 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) - 구현 <br>
+[Programmers - 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) - 문자열 <br>
 
 ## 11주차(10/27) (목)
 [Programmers - 최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) - 구현 <br>
 [Programmers - JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) - 문자열 <br>
+
+## (10/13) (목) - 역량테스트 대비 개인 공부
 
 ## 10주차(10/06) (목)
 
@@ -37,6 +49,8 @@
 ## 6주차(09/08) (목)
 
 [SWEA-5653 줄기세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo&categoryId=AWXRJ8EKe48DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=2) - 구현
+
+## (08/30) (화) - 역량테스트 대비 개인 공부
 
 ## 5주차(08/23) (화)
 
