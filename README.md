@@ -22,7 +22,7 @@
 
 ## 13주차(11/10) (목)
 [Programmers - 괄호변환]( https://school.programmers.co.kr/learn/courses/30/lessons/60058) - 문자열 <br>
-[Programmers - 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/84512) - 문자열 <br>
+[Programmers - 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) - 문자열 <br>
 
 ## 12주차(11/03) (목)
 [Programmers - 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) - 구현 <br>
